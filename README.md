@@ -1,3 +1,3 @@
 # newProject
-this is first git project 
+this is first git project <br>
 this is another line
